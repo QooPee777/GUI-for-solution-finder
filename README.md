@@ -1,1 +1,1 @@
-# GUI-for-solution-finder
+# GUI for solution-finder
